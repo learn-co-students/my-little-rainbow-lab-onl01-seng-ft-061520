@@ -13,4 +13,28 @@ div {
 #red {
   border-top-color: #f00;
 }
+
+#orange {
+  border-top-color: orange;
 }
+
+#yellow {
+  border-top-color: yellow;
+}
+
+#green {
+  border-top-color: green;
+}
+
+#blue {
+  border_top_color: blue;
+}
+
+#indigo {
+  border_top_color: indigo;
+}
+
+#violet {
+  border_top_color: violet;
+}
+
